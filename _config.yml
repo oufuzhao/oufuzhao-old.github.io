@@ -81,11 +81,11 @@ analytics:
 # Site Author
 author:
   name             : "Fu-Zhao Ou"
-  avatar           : "My_profile.png"
+  avatar           : "My_profile2.png"
   bio              : "Ph.D. Student in Computer Science at the City University of Hong Kong"
   location         : "Hong Kong"
   employer         :
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
+  pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "https://scholar.google.com/citations?user=rKhmgskAAAAJ&hl=en&oi=ao"
   email            : "fuzhao.ou@my.cityu.edu.hk"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
