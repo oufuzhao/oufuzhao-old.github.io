@@ -9,10 +9,7 @@ redirect_from:
 ---
 
 
-Welcome to Fu-Zhao Ou's Homepage
-======
-
-About me
+Welcome to My Homepage
 ======
 ------
 I am currently a Ph.D. student in the Department of Computer Science at the City University of Hong Kong, starting in the fall of 2022, under the guidance of Prof.  [Sam Kwong](https://www.cityu.edu.hk/stfprofile/cssamk.htm), Prof. [Shiqi Wang](https://www.cs.cityu.edu.hk/~shiqwang/), and Prof. [Chongyi Li](https://li-chongyi.github.io/). My research focuses on image quality assessment, pattern recognition, and computer vision.
