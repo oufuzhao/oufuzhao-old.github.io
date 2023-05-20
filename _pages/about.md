@@ -41,8 +41,8 @@ Talk
 ======
 ------
 **Nov. 2021** -
-Invited talk in the Workshop on Face Image Quality  <br>
-- Organized by the European Association for Biometrics (EAB), National Institute of Standards and Technology (NIST), European Union Agency for the Operational Management of Large-Scale IT Systems in the Area of Freedom, Security and Justice (eu-LISA), etc.
+Invited talk in the [Workshop on Face Image Quality](https://eab.org/events/program/261)  <br>
+- Organized by the European Association for Biometrics ([EAB](https://eab.org/)), National Institute of Standards and Technology ([NIST](https://www.nist.gov/)), European Union Agency for the Operational Management of Large-Scale IT Systems in the Area of Freedom, Security and Justice ([eu-LISA](https://www.eulisa.europa.eu/)), etc.
 
 Professional Service
 ======
@@ -60,7 +60,7 @@ Awards
 ------
 **Oct. 2020** -
 1st Academic Scholarship <br>
-**May. 2020** -
+**May 2020** -
 Tencent Micro Innovation Award: Face-scan for WeChat Pay <br>
 **Oct. 2019** -
 1st Academic Scholarship
