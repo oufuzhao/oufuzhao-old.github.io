@@ -17,7 +17,7 @@ I am currently a Ph.D. student in the Department of Computer Science at the City
 Publications
 ======
 ------
-[1]. **Fu-Zhao Ou**, Xingyu Chen, Ruixin Zhang, Yuge Huang, Shaoxin Li, Jilin Li, Yong Li, Liujuan Cao, and Yuan-Gen Wang, "SDD-FIQA: Unsupervised Face Image Quality Assessment with Similarity Distribution Distance," In *Proceedings of IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR)*, pp.7670-7679, 2021. [[Paper]](https://www.cityu.edu.hk/stfprofile/cssamk.htm) 
+[1]. **Fu-Zhao Ou**, Xingyu Chen, Ruixin Zhang, Yuge Huang, Shaoxin Li, Jilin Li, Yong Li, Liujuan Cao, and Yuan-Gen Wang, "SDD-FIQA: Unsupervised Face Image Quality Assessment with Similarity Distribution Distance," In *Proceedings of IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR)*, pp.7670-7679, 2021. [[Paper]](https://openaccess.thecvf.com/content/CVPR2021/papers/Ou_SDD-FIQA_Unsupervised_Face_Image_Quality_Assessment_With_Similarity_Distribution_Distance_CVPR_2021_paper.pdf) 
 [[Source code]](https://github.com/Tencent/TFace/tree/quality}{\textcolor{red}{https://github.com/Tencent/TFace/tree/quality)  
 
 [2]. **Fu-Zhao Ou**, Yuan-Gen Wang, Jin Li, Guopu Zhu, and Sam Kwong, "A Novel Rank Learning Based No-Reference Image Quality Assessment Method," *IEEE Transactions on Multimedia (TMM)*, vol. 24, pp. 4197-4211, 2022. [[Paper]](https://ieeexplore.ieee.org/abstract/document/9548827) 
