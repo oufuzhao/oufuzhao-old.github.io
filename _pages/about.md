@@ -60,11 +60,11 @@ Professional Service
 Awards
 ======
 ------
-- **Oct. 2020** -
+**Oct. 2020** -
 1st Academic Scholarship <br>
-- **May 2020** -
+**May 2020** -
 Tencent Micro Innovation Award: Face-scan for WeChat Pay <br>
-- **Oct. 2019** -
+**Oct. 2019** -
 1st Academic Scholarship
 
 
