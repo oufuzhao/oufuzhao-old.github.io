@@ -12,7 +12,7 @@ redirect_from:
 Welcome to My Homepage
 ======
 ------
-I am currently a Ph.D. student in the Department of Computer Science at the City University of Hong Kong, starting in the fall of 2022, under the guidance of Prof.  [Sam Kwong](https://www.cityu.edu.hk/stfprofile/cssamk.htm), Prof. [Shiqi Wang](https://www.cs.cityu.edu.hk/~shiqwang/), and Prof. [Chongyi Li](https://li-chongyi.github.io/). My research focuses on image quality assessment, pattern recognition, and computer vision.
+I am currently a Ph.D. candidate in the Department of Computer Science at the City University of Hong Kong, starting in the fall of 2022, under the guidance of Prof.  [Sam Kwong](https://www.cityu.edu.hk/stfprofile/cssamk.htm), Prof. [Shiqi Wang](https://www.cs.cityu.edu.hk/~shiqwang/), and Prof. [Chongyi Li](https://li-chongyi.github.io/). My research focuses on image quality assessment, pattern recognition, and computer vision.
 
 Publications
 ======
@@ -51,7 +51,8 @@ Professional Service
 ------
 **Journal Reviewer**  <br>
 - IEEE Transactions on Image Processing (TIP) <br>
-- IEEE Transactions on Circuits and Systems for Video Technology (TCSVT)  
+- IEEE Transactions on Circuits and Systems for Video Technology (TCSVT) <br>
+- Electronics Letters (ELL)
 
 **Conference Reviewer**  <br>
 - IEEE/CVF Conference Computer Vision and Pattern Recognition Conference (CVPR) <br>
