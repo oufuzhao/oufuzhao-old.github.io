@@ -17,7 +17,8 @@ I am currently a Ph.D. candidate in the Department of Computer Science at the Ci
 Publications
 ======
 ------
-- **Fu-Zhao Ou**, Baoliang Chen, Chongyi Li, Shiqi Wang, and Sam Kwong, "Troubleshooting Ethnic Quality Bias with Curriculum Domain Adaptation for Face Image Quality Assessment," In *Proceedings of IEEE/CVF Conference on Computer Vision (ICCV)*, 2023.
+- **Fu-Zhao Ou**, Baoliang Chen, Chongyi Li, Shiqi Wang, and Sam Kwong, "Troubleshooting Ethnic Quality Bias with Curriculum Domain Adaptation for Face Image Quality Assessment," In *Proceedings of IEEE/CVF Conference on Computer Vision (ICCV)*, pp.20718-20729, 2023. [[Paper]](https://openaccess.thecvf.com/content/ICCV2023/papers/Ou_Troubleshooting_Ethnic_Quality_Bias_with_Curriculum_Domain_Adaptation_for_Face_ICCV_2023_paper.pdf) 
+[[Code]](https://github.com/oufuzhao/EQBM)
 
 - **Fu-Zhao Ou**, Xingyu Chen, Ruixin Zhang, Yuge Huang, Shaoxin Li, Jilin Li, Yong Li, Liujuan Cao, and Yuan-Gen Wang, "SDD-FIQA: Unsupervised Face Image Quality Assessment with Similarity Distribution Distance," In *Proceedings of IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR)*, pp.7670-7679, 2021. [[Paper]](https://openaccess.thecvf.com/content/CVPR2021/papers/Ou_SDD-FIQA_Unsupervised_Face_Image_Quality_Assessment_With_Similarity_Distribution_Distance_CVPR_2021_paper.pdf) 
 [[Code]](https://github.com/Tencent/TFace/tree/quality)  
