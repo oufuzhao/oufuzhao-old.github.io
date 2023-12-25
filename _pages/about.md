@@ -27,16 +27,20 @@ Publications
         <img src="images2/ICCV23.png" height="80">
       </td>
       <td style="border: none;" width="75%" valign="middle">
-        <a href="https://openaccess.thecvf.com/content/ICCV2023/papers/Ou_Troubleshooting_Ethnic_Quality_Bias_with_Curriculum_Domain_Adaptation_for_Face_ICCV_2023_paper.pdf">
-          <papertitle><font size="3">Troubleshooting Ethnic Quality Bias with Curriculum Domain Adaptation for Face Image Quality Assessment</font></papertitle>
+        <font size="3"><strong>Fu-Zhao Ou</strong>, Baoliang Chen, Chongyi Li, Shiqi Wang, and Sam Kwong, "Troubleshooting Ethnic Quality Bias with Curriculum Domain Adaptation for Face Image Quality Assessment," In <em>Proceedings of IEEE/CVF Conference on Computer Vision (ICCV)</em>, pp.20718-20729, 2023</font>
+        <br>
+        <a> href="https://openaccess.thecvf.com/content/ICCV2023/papers/Ou_Troubleshooting_Ethnic_Quality_Bias_with_Curriculum_Domain_Adaptation_for_Face_ICCV_2023_paper.pdf">
+          <papertitle><font size="3">[Paper]</font></papertitle>
         </a>
-        <br>
-        <font size="3"><strong>Fu-Zhao Ou</strong>, Baoliang Chen, Chongyi Li, Shiqi Wang, and Sam Kwong</font>
-        <br>
-        <font size="3">In <em>Proceedings of IEEE/CVF Conference on Computer Vision (ICCV)</em>, pp.20718-20729, 2023</font>
+        <a> href="https://github.com/oufuzhao/EQBM">
+          <papertitle><font size="3">[Code]</font></papertitle>
+        </a>
       </td>
     </tr>
 
+
+  </tbody>
+</table>
 
 
 - **Fu-Zhao Ou**, Baoliang Chen, Chongyi Li, Shiqi Wang, and Sam Kwong, "Troubleshooting Ethnic Quality Bias with Curriculum Domain Adaptation for Face Image Quality Assessment," In *Proceedings of IEEE/CVF Conference on Computer Vision (ICCV)*, pp.20718-20729, 2023. [[Paper]](https://openaccess.thecvf.com/content/ICCV2023/papers/Ou_Troubleshooting_Ethnic_Quality_Bias_with_Curriculum_Domain_Adaptation_for_Face_ICCV_2023_paper.pdf) 
