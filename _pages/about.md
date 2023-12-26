@@ -46,7 +46,9 @@ Publications
         <img src="images2/CVPR21.png" height="80">
       </td>
       <td style="border: none;" width="75%" valign="middle">
-        <font size="3.2">-<strong>Fu-Zhao Ou</strong>, Xingyu Chen, Ruixin Zhang, Yuge Huang, Shaoxin Li, Jilin Li, Yong Li, Liujuan Cao, and Yuan-Gen Wang, "SDD-FIQA: Unsupervised Face Image Quality Assessment with Similarity Distribution Distance," In <em>IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR)</em>, pp.7670-7679, 2021. </font>
+      <ul>
+        <li>
+        <font size="3.2"><strong>Fu-Zhao Ou</strong>, Xingyu Chen, Ruixin Zhang, Yuge Huang, Shaoxin Li, Jilin Li, Yong Li, Liujuan Cao, and Yuan-Gen Wang, "SDD-FIQA: Unsupervised Face Image Quality Assessment with Similarity Distribution Distance," In <em>IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR)</em>, pp.7670-7679, 2021. </font>
         <br>
         <a href="https://openaccess.thecvf.com/content/CVPR2021/papers/Ou_SDD-FIQA_Unsupervised_Face_Image_Quality_Assessment_With_Similarity_Distribution_Distance_CVPR_2021_paper.pdf">
           <papertitle><font size="3.2">[Paper] </font></papertitle>
@@ -54,6 +56,8 @@ Publications
         <a href="https://github.com/Tencent/TFace/tree/quality">
           <papertitle><font size="3.2">[Code]</font></papertitle>
         </a>
+        </li>
+      </ul>
       </td>
     </tr>
     
@@ -62,7 +66,9 @@ Publications
         <img src="images2/TMM22.png" height="80">
       </td>
       <td style="border: none;" width="75%" valign="middle">
-        <font size="3.2">-<strong>Fu-Zhao Ou</strong>, Yuan-Gen Wang, Jin Li, Guopu Zhu, and Sam Kwong, "A Novel Rank Learning Based No-Reference Image Quality Assessment Method," <em>IEEE Transactions on Multimedia (TMM)</em>, vol. 24, pp.4197-4211, 2022. </font>
+      <ul>
+        <li>
+        <font size="3.2"><strong>Fu-Zhao Ou</strong>, Yuan-Gen Wang, Jin Li, Guopu Zhu, and Sam Kwong, "A Novel Rank Learning Based No-Reference Image Quality Assessment Method," <em>IEEE Transactions on Multimedia (TMM)</em>, vol. 24, pp.4197-4211, 2022. </font>
         <br>
         <a href="https://ieeexplore.ieee.org/abstract/document/9548827">
           <papertitle><font size="3.2">[Paper] </font></papertitle>
@@ -70,6 +76,8 @@ Publications
         <a href="https://github.com/GZHU-Image-Lab/CLRIQA">
           <papertitle><font size="3.2">[Code]</font></papertitle>
         </a>
+        </li>
+      </ul>
       </td>
     </tr>
     
@@ -78,7 +86,9 @@ Publications
         <img src="images2/ICIP19.png" height="80">
       </td>
       <td style="border: none;" width="75%" valign="middle">
-        <font size="3.2">-<strong>Fu-Zhao Ou</strong>, Yuan-Gen Wang, and Guopu Zhu, "A Novel Blind Image Quality Assessment Method based on Refined Natural Scene Statistics," In <em>Proceedings of IEEE International Conference on Image Processing (ICIP)</em>, pp.1004-1008, 2019. </font>
+      <ul>
+        <li>
+        <font size="3.2"><strong>Fu-Zhao Ou</strong>, Yuan-Gen Wang, and Guopu Zhu, "A Novel Blind Image Quality Assessment Method based on Refined Natural Scene Statistics," In <em>Proceedings of IEEE International Conference on Image Processing (ICIP)</em>, pp.1004-1008, 2019. </font>
         <br>
         <a href="https://ieeexplore.ieee.org/abstract/document/8803047">
           <papertitle><font size="3.2">[Paper] </font></papertitle>
@@ -86,6 +96,8 @@ Publications
         <a href="https://github.com/GZHU-Image-Lab/NBIQA">
           <papertitle><font size="3.2">[Code]</font></papertitle>
         </a>
+        </li>
+      </ul>
       </td>
     </tr>
 
