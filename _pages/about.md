@@ -33,7 +33,6 @@ Publications
         <a href="https://openaccess.thecvf.com/content/ICCV2023/papers/Ou_Troubleshooting_Ethnic_Quality_Bias_with_Curriculum_Domain_Adaptation_for_Face_ICCV_2023_paper.pdf">
           <papertitle><font size="3.4">[Paper]</font></papertitle>
         </a>
-        <font> </font>
         <a href="https://github.com/oufuzhao/EQBM">
           <papertitle><font size="3.4">[Code]</font></papertitle>
         </a>
@@ -54,7 +53,6 @@ Publications
         <a href="https://openaccess.thecvf.com/content/CVPR2021/papers/Ou_SDD-FIQA_Unsupervised_Face_Image_Quality_Assessment_With_Similarity_Distribution_Distance_CVPR_2021_paper.pdf">
           <papertitle><font size="3.4">[Paper]</font></papertitle>
         </a>
-        <font> </font>
         <a href="https://github.com/Tencent/TFace/tree/quality">
           <papertitle><font size="3.4">[Code]</font></papertitle>
         </a>
@@ -75,7 +73,6 @@ Publications
         <a href="https://ieeexplore.ieee.org/abstract/document/9548827">
           <papertitle><font size="3.4">[Paper]</font></papertitle>
         </a>
-        <font> </font>
         <a href="https://github.com/GZHU-Image-Lab/CLRIQA">
           <papertitle><font size="3.4">[Code]</font></papertitle>
         </a>
@@ -96,7 +93,6 @@ Publications
         <a href="https://ieeexplore.ieee.org/abstract/document/8803047">
           <papertitle><font size="3.4">[Paper]</font></papertitle>
         </a>
-        <font> </font>
         <a href="https://github.com/GZHU-Image-Lab/NBIQA">
           <papertitle><font size="3.4">[Code]</font></papertitle>
         </a>
