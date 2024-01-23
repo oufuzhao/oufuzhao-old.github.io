@@ -20,6 +20,25 @@ Publications
 
 <table style="border: none;">
   <tbody>
+    <tr>
+      <td style="border: none;" width="25%">
+        <img src="images2/TMM24.png" height="80">
+      </td>
+      <td style="border: none;" width="75%" valign="middle">
+      <ul>
+        <li>
+        <font size="3.4"><strong>Fu-Zhao Ou</strong>, Xingyu Chen, Kai Zhao, Shiqi Wang, Yuan-Gen Wang, and Sam Kwong, "Refining Uncertain Features with Self-Distillation for Face Recognition and Person Re-Identification," In <em>IEEE Transactions on Multimedia (TMM)</em>, Accepted, 2024. </font>
+        <br>
+        <a href="//">
+          <papertitle><font size="3.4">[Paper]</font></papertitle>
+        </a>
+        <a href="//">
+          <papertitle><font size="3.4">[Code]</font></papertitle>
+        </a>
+        </li>
+      </ul>
+      </td>
+    </tr>
 
     <tr>
       <td style="border: none;" width="25%">
