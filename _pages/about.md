@@ -27,12 +27,12 @@ Publications
       <td style="border: none;" width="75%" valign="middle">
       <ul>
         <li>
-        <font size="3.4"><strong>Fu-Zhao Ou</strong>, Xingyu Chen, Kai Zhao, Shiqi Wang, Yuan-Gen Wang, and Sam Kwong, "Refining Uncertain Features with Self-Distillation for Face Recognition and Person Re-Identification," <em>IEEE Transactions on Multimedia (TMM)</em>, Accepted, 2024. </font>
+        <font size="3.4"><strong>Fu-Zhao Ou</strong>, Xingyu Chen, Kai Zhao, Shiqi Wang, Yuan-Gen Wang, and Sam Kwong, "Refining Uncertain Features with Self-Distillation for Face Recognition and Person Re-Identification," <em>IEEE Transactions on Multimedia (TMM)</em>, 10.1109/TMM.2024.3358697 (Early Access), 2024. </font>
         <br>
-        <a href="//">
+        <a href="https://ieeexplore.ieee.org/document/10415557">
           <papertitle><font size="3.4">[Paper]</font></papertitle>
         </a>
-        <a href="//">
+        <a href="https://github.com/oufuzhao/QSD">
           <papertitle><font size="3.4">[Code]</font></papertitle>
         </a>
         </li>
