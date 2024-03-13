@@ -22,7 +22,7 @@ Publications
   <tbody>
     <tr>
       <td style="border: none;" width="25%">
-        <img src="images2/CVPR24.png" height="80">
+        <img src="images2/CVPR24.jpg" height="80">
       </td>
       <td style="border: none;" width="75%" valign="middle">
       <ul>
@@ -42,7 +42,7 @@ Publications
 
 <tr>
   <td style="border: none;" width="25%">
-    <img src="images2/TMM24-M.png" height="80">
+    <img src="images2/TMM24-M.jpg" height="80">
   </td>
   <td style="border: none;" width="75%" valign="middle">
   <ul>
@@ -62,7 +62,7 @@ Publications
 
 <tr>
   <td style="border: none;" width="25%">
-    <img src="images2/ICCV23.png" height="80">
+    <img src="images2/ICCV23.jpg" height="80">
   </td>
   <td style="border: none;" width="75%" valign="middle">
   <ul>
@@ -82,7 +82,7 @@ Publications
 
 <tr>
   <td style="border: none;" width="25%">
-    <img src="images2/CVPR21.png" height="80">
+    <img src="images2/CVPR21.jpg" height="80">
   </td>
   <td style="border: none;" width="75%" valign="middle">
   <ul>
@@ -102,7 +102,7 @@ Publications
 
 <tr>
   <td style="border: none;" width="25%">
-    <img src="images2/TMM22-M.png" height="80">
+    <img src="images2/TMM22-M.jpg" height="80">
   </td>
   <td style="border: none;" width="75%" valign="middle">
   <ul>
@@ -122,7 +122,7 @@ Publications
 
 <tr>
   <td style="border: none;" width="25%">
-    <img src="images2/ICIP19.png" height="80">
+    <img src="images2/ICIP19.jpg" height="80">
   </td>
   <td style="border: none;" width="75%" valign="middle">
   <ul>
