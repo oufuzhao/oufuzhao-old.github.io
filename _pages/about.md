@@ -12,7 +12,7 @@ redirect_from:
 Welcome to My Homepage
 ======
 ------
-I am currently a Research Scholar in Department of Computer Science at City University of Hong Kong. My research focuses on image quality assessment, pattern recognition, computer vision, and artificial intelligence.
+I am currently a Research Scholar in Department of Computer Science at City University of Hong Kong. Previously, I served as a Researcher of Computer Vision with Shannon Laboratory at Tencent, Shenzhen, China, from 2021 to 2022. Meanwhile, from 2020 to 2021, I worked as a research intern at Youtu Laboratory, Tencent, Shanghai, China. My research focuses on image quality assessment, pattern recognition, computer vision, and artificial intelligence.
 
 Publications
 ======
@@ -23,6 +23,11 @@ Publications
     <tr>
       <td style="border: none;" width="25%">
         <img src="images2/CVPR24.png" height="80">
+      </td>
+      <td style="border: none;" width="75%" valign="middle">
+      <ul>
+        <li>
+        <font size="3.4"><strong>Fu-Zhao Ou</strong>, Chongyi Li, Shiqi Wang, and Sam Kwong, "CLIB-FIQA: Face Image Quality Assessment with Confidence Calibration," In <em>Proceedings of IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR)</em>, (Accepted), 2024. </font>
         <br>
         <a href="/">
           <papertitle><font size="3.4">[Paper]</font></papertitle>(wait)
@@ -30,11 +35,6 @@ Publications
         <a href="/">
           <papertitle><font size="3.4">[Code]</font></papertitle>(wait)
         </a>
-      </td>
-      <td style="border: none;" width="75%" valign="middle">
-      <ul>
-        <li>
-        <font size="3.4"><strong>Fu-Zhao Ou</strong>, Chongyi Li, Shiqi Wang, and Sam Kwong, "CLIB-FIQA: Face Image Quality Assessment with Confidence Calibration," In <em>Proceedings of IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR)</em>, (Accepted), 2024. </font>
         </li>
       </ul>
       </td>
