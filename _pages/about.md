@@ -12,7 +12,7 @@ redirect_from:
 Welcome to My Homepage
 ======
 ------
-I am currently a research scholar in the Department of Computer Science at the City University of Hong Kong. My research focuses on image quality assessment, pattern recognition, computer vision, and artificial intelligence.
+I am currently a Research Scholar in the Department of Computer Science at the City University of Hong Kong. My research focuses on image quality assessment, pattern recognition, computer vision, and artificial intelligence.
 
 Publications
 ======
