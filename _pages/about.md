@@ -174,6 +174,12 @@ Professional Service
 - IEEE/CVF International Conference on Computer Vision (ICCV) <br>
 - AAAI Conference on Artificial Intelligence (AAAI)
 
+Teaching Task
+======
+------
+**CS1302 - Introduction to Computer Programming**  <br>
+- Teaching Assistant, Aug. 2022 -- Jan. 2024 <br>
+- Tutor, Jan. 2024 -- Present <br>
 
 Awards
 ======
