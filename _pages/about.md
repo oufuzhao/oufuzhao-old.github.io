@@ -147,10 +147,10 @@ Patents
 ======
 ------
 **US Patents** <br>
-- Assessing Face Image Quality for Application of Facial Recognition, US Patent App. 17/991,670, 2023.
+- Assessing Face Image Quality for Application of Facial Recognition, <em>US Patent</em>, App. 17/991,670, 2023.
 
 **International Exhibition of Inventions** <br>
-- AI-based Adaptive Visual Content Enhancement, Silver Medal, International Exhibition of Inventions of Geneva (IEIG), 2024.
+- AI-based Adaptive Visual Content Enhancement, <em>International Exhibition of Inventions of Geneva (IEIG)</em>, Silver Medal, 2024.
 
 Working Experience
 ======
