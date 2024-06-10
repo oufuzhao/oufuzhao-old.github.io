@@ -47,7 +47,7 @@ Publications
   <td style="border: none;" width="75%" valign="middle">
   <ul>
     <li>
-    <font size="3.4"><strong>Fu-Zhao Ou</strong>, Xingyu Chen, Kai Zhao, Shiqi Wang, Yuan-Gen Wang, and Sam Kwong, "Refining Uncertain Features with Self-Distillation for Face Recognition and Person Re-Identification," <em>IEEE Transactions on Multimedia (TMM)</em>, 10.1109/TMM.2024.3358697 (Early Access), 2024. </font>
+    <font size="3.4"><strong>Fu-Zhao Ou</strong>, Xingyu Chen, Kai Zhao, Shiqi Wang, Yuan-Gen Wang, and Sam Kwong, "Refining Uncertain Features with Self-Distillation for Face Recognition and Person Re-Identification," <em>IEEE Transactions on Multimedia (TMM)</em>, vol. 26, pp. 6981-6995, 2024. </font>
     <br>
     <a href="https://ieeexplore.ieee.org/document/10415557">
       <papertitle><font size="3.4">[Paper]</font></papertitle>
@@ -67,7 +67,7 @@ Publications
   <td style="border: none;" width="75%" valign="middle">
   <ul>
     <li>
-    <font size="3.4"><strong>Fu-Zhao Ou</strong>, Baoliang Chen, Chongyi Li, Shiqi Wang, and Sam Kwong, "Troubleshooting Ethnic Quality Bias with Curriculum Domain Adaptation for Face Image Quality Assessment," In <em>Proceedings of IEEE/CVF Conference on Computer Vision (ICCV)</em>, pp.20718-20729, 2023. </font>
+    <font size="3.4"><strong>Fu-Zhao Ou</strong>, Baoliang Chen, Chongyi Li, Shiqi Wang, and Sam Kwong, "Troubleshooting Ethnic Quality Bias with Curriculum Domain Adaptation for Face Image Quality Assessment," In <em>Proceedings of IEEE/CVF Conference on Computer Vision (ICCV)</em>, pp. 20718-20729, 2023. </font>
     <br>
     <a href="https://openaccess.thecvf.com/content/ICCV2023/papers/Ou_Troubleshooting_Ethnic_Quality_Bias_with_Curriculum_Domain_Adaptation_for_Face_ICCV_2023_paper.pdf">
       <papertitle><font size="3.4">[Paper]</font></papertitle>
@@ -87,7 +87,7 @@ Publications
   <td style="border: none;" width="75%" valign="middle">
   <ul>
     <li>
-    <font size="3.4"><strong>Fu-Zhao Ou</strong>, Xingyu Chen, Ruixin Zhang, Yuge Huang, Shaoxin Li, Jilin Li, Yong Li, Liujuan Cao, and Yuan-Gen Wang, "SDD-FIQA: Unsupervised Face Image Quality Assessment with Similarity Distribution Distance," In <em>Proceedings of IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR)</em>, pp.7670-7679, 2021. </font>
+    <font size="3.4"><strong>Fu-Zhao Ou</strong>, Xingyu Chen, Ruixin Zhang, Yuge Huang, Shaoxin Li, Jilin Li, Yong Li, Liujuan Cao, and Yuan-Gen Wang, "SDD-FIQA: Unsupervised Face Image Quality Assessment with Similarity Distribution Distance," In <em>Proceedings of IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR)</em>, pp. 7670-7679, 2021. </font>
     <br>
     <a href="https://openaccess.thecvf.com/content/CVPR2021/papers/Ou_SDD-FIQA_Unsupervised_Face_Image_Quality_Assessment_With_Similarity_Distribution_Distance_CVPR_2021_paper.pdf">
       <papertitle><font size="3.4">[Paper]</font></papertitle>
@@ -107,7 +107,7 @@ Publications
   <td style="border: none;" width="75%" valign="middle">
   <ul>
     <li>
-    <font size="3.4"><strong>Fu-Zhao Ou</strong>, Yuan-Gen Wang, Jin Li, Guopu Zhu, and Sam Kwong, "A Novel Rank Learning Based No-Reference Image Quality Assessment Method," <em>IEEE Transactions on Multimedia (TMM)</em>, vol. 24, pp.4197-4211, 2022. </font>
+    <font size="3.4"><strong>Fu-Zhao Ou</strong>, Yuan-Gen Wang, Jin Li, Guopu Zhu, and Sam Kwong, "A Novel Rank Learning Based No-Reference Image Quality Assessment Method," <em>IEEE Transactions on Multimedia (TMM)</em>, vol. 24, pp. 4197-4211, 2022. </font>
     <br>
     <a href="https://ieeexplore.ieee.org/abstract/document/9548827">
       <papertitle><font size="3.4">[Paper]</font></papertitle>
@@ -127,7 +127,7 @@ Publications
   <td style="border: none;" width="75%" valign="middle">
   <ul>
     <li>
-    <font size="3.4"><strong>Fu-Zhao Ou</strong>, Yuan-Gen Wang, and Guopu Zhu, "A Novel Blind Image Quality Assessment Method based on Refined Natural Scene Statistics," In <em>Proceedings of IEEE International Conference on Image Processing (ICIP)</em>, pp.1004-1008, 2019. </font>
+    <font size="3.4"><strong>Fu-Zhao Ou</strong>, Yuan-Gen Wang, and Guopu Zhu, "A Novel Blind Image Quality Assessment Method based on Refined Natural Scene Statistics," In <em>Proceedings of IEEE International Conference on Image Processing (ICIP)</em>, pp. 1004-1008, 2019. </font>
     <br>
     <a href="https://ieeexplore.ieee.org/abstract/document/8803047">
       <papertitle><font size="3.4">[Paper]</font></papertitle>
@@ -142,6 +142,15 @@ Publications
 
   </tbody>
 </table>
+
+Patent
+======
+------
+**US Patent** <br>
+- Assessing Face Image Quality for Application of Facial Recognition, US Patent App. 17/991,670, 2023.
+
+**International Exhibition of Inventions of Geneva (IEIG)** <br>
+- AI-based Adaptive Visual Content Enhancement, Silver Medal, 2024.
 
 Working Experience
 ======
@@ -167,7 +176,8 @@ Professional Service
 **Journal Reviewer**  <br>
 - IEEE Transactions on Image Processing (TIP) <br>
 - IEEE Transactions on Circuits and Systems for Video Technology (TCSVT) <br>
-- Electronics Letters (ELL)
+- Electronics Letters (ELL) <br>
+- Computer Vision and Image Understanding (CVIU)
 
 **Conference Reviewer**  <br>
 - IEEE/CVF Conference Computer Vision and Pattern Recognition Conference (CVPR) <br>
