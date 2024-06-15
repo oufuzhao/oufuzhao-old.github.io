@@ -27,13 +27,13 @@ Publications
       <td style="border: none;" width="75%" valign="middle">
       <ul>
         <li>
-        <font size="3.4"><strong>Fu-Zhao Ou</strong>, Chongyi Li, Shiqi Wang, and Sam Kwong, "CLIB-FIQA: Face Image Quality Assessment with Confidence Calibration," In <em>Proceedings of IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR)</em>, (Accepted), 2024. </font>
+        <font size="3.4"><strong>Fu-Zhao Ou</strong>, Chongyi Li, Shiqi Wang, and Sam Kwong, "CLIB-FIQA: Face Image Quality Assessment with Confidence Calibration," In <em>Proceedings of IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR)</em>, pp. 1694-1704, 2024. </font>
         <br>
-        <a href="/">
-          <papertitle><font size="3.4">[Paper]</font></papertitle>(wait)
+        <a href="https://openaccess.thecvf.com/content/CVPR2024/papers/Ou_CLIB-FIQA_Face_Image_Quality_Assessment_with_Confidence_Calibration_CVPR_2024_paper.pdf">
+          <papertitle><font size="3.4">[Paper]</font></papertitle>
         </a>
-        <a href="/">
-          <papertitle><font size="3.4">[Code]</font></papertitle>(wait)
+        <a href="https://github.com/oufuzhao/CLIB-FIQA">
+          <papertitle><font size="3.4">[Code]</font></papertitle>
         </a>
         </li>
       </ul>
