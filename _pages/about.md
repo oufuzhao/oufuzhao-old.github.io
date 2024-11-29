@@ -107,7 +107,7 @@ Publications
   <td style="border: none;" width="75%" valign="middle">
   <ul>
     <li>
-    <font size="3.4"><strong>Fu-Zhao Ou</strong>, Yuan-Gen Wang, Jin Li, Guopu Zhu, and Sam Kwong, "A Novel Rank Learning Based No-Reference Image Quality Assessment Method," <em>IEEE Transactions on Multimedia (TMM)</em>, vol. 24, pp. 4197-4211, 2022. </font>
+    <font size="3.4"><strong>Fu-Zhao Ou</strong>, Yuan-Gen Wang, Jin Li, Guopu Zhu, and Sam Kwong, "c," <em>IEEE Transactions on Multimedia (TMM)</em>, vol. 24, pp. 4197-4211, 2022. </font>
     <br>
     <a href="https://ieeexplore.ieee.org/abstract/document/9548827">
       <papertitle><font size="3.4">[Paper]</font></papertitle>
